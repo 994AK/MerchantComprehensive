@@ -1,0 +1,647 @@
+[
+  {
+    "value": "广西壮族自治区",
+    "label": "广西壮族自治区",
+    "children": [
+      {
+        "value": "南宁",
+        "label": "南宁",
+        "children": [
+          {
+            "value": "青秀区",
+            "label": "青秀区",
+            "children": []
+          },
+          {
+            "value": "兴宁区",
+            "label": "兴宁区",
+            "children": []
+          },
+          {
+            "value": "西乡塘区",
+            "label": "西乡塘区",
+            "children": []
+          },
+          {
+            "value": "江南区",
+            "label": "江南区",
+            "children": []
+          },
+          {
+            "value": "良庆区",
+            "label": "良庆区",
+            "children": []
+          },
+          {
+            "value": "邕宁区",
+            "label": "邕宁区",
+            "children": []
+          },
+          {
+            "value": "武鸣区",
+            "label": "武鸣区",
+            "children": []
+          },
+          {
+            "value": "隆安县",
+            "label": "隆安县",
+            "children": []
+          },
+          {
+            "value": "马山县",
+            "label": "马山县",
+            "children": []
+          },
+          {
+            "value": "上林县",
+            "label": "上林县",
+            "children": []
+          },
+          {
+            "value": "宾阳县",
+            "label": "宾阳县",
+            "children": []
+          },
+          {
+            "value": "横县",
+            "label": "横县",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "柳州",
+        "label": "柳州",
+        "children": [
+          {
+            "value": "柳北区",
+            "label": "柳北区",
+            "children": []
+          },
+          {
+            "value": "鱼峰区",
+            "label": "鱼峰区",
+            "children": []
+          },
+          {
+            "value": "鹿寨县",
+            "label": "鹿寨县",
+            "children": []
+          },
+          {
+            "value": "城中区",
+            "label": "城中区",
+            "children": []
+          },
+          {
+            "value": "柳南区",
+            "label": "柳南区",
+            "children": []
+          },
+          {
+            "value": "柳江区",
+            "label": "柳江区",
+            "children": []
+          },
+          {
+            "value": "柳城县",
+            "label": "柳城县",
+            "children": []
+          },
+          {
+            "value": "融安县",
+            "label": "融安县",
+            "children": []
+          },
+          {
+            "value": "融水苗族自治县",
+            "label": "融水苗族自治县",
+            "children": []
+          },
+          {
+            "value": "三江侗族自治县",
+            "label": "三江侗族自治县",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "桂林",
+        "label": "桂林",
+        "children": [
+          {
+            "value": "七星区",
+            "label": "七星区",
+            "children": []
+          },
+          {
+            "value": "秀峰区",
+            "label": "秀峰区",
+            "children": []
+          },
+          {
+            "value": "叠彩区",
+            "label": "叠彩区",
+            "children": []
+          },
+          {
+            "value": "象山区",
+            "label": "象山区",
+            "children": []
+          },
+          {
+            "value": "雁山区",
+            "label": "雁山区",
+            "children": []
+          },
+          {
+            "value": "临桂区",
+            "label": "临桂区",
+            "children": []
+          },
+          {
+            "value": "阳朔县",
+            "label": "阳朔县",
+            "children": []
+          },
+          {
+            "value": "灵川县",
+            "label": "灵川县",
+            "children": []
+          },
+          {
+            "value": "全州县",
+            "label": "全州县",
+            "children": []
+          },
+          {
+            "value": "兴安县",
+            "label": "兴安县",
+            "children": []
+          },
+          {
+            "value": "永福县",
+            "label": "永福县",
+            "children": []
+          },
+          {
+            "value": "灌阳县",
+            "label": "灌阳县",
+            "children": []
+          },
+          {
+            "value": "龙胜各族自治县",
+            "label": "龙胜各族自治县",
+            "children": []
+          },
+          {
+            "value": "资源县",
+            "label": "资源县",
+            "children": []
+          },
+          {
+            "value": "平乐县",
+            "label": "平乐县",
+            "children": []
+          },
+          {
+            "value": "恭城瑶族自治县",
+            "label": "恭城瑶族自治县",
+            "children": []
+          },
+          {
+            "value": "荔浦市",
+            "label": "荔浦市",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "梧州",
+        "label": "梧州",
+        "children": [
+          {
+            "value": "万秀区",
+            "label": "万秀区",
+            "children": []
+          },
+          {
+            "value": "长洲区",
+            "label": "长洲区",
+            "children": []
+          },
+          {
+            "value": "龙圩区",
+            "label": "龙圩区",
+            "children": []
+          },
+          {
+            "value": "苍梧县",
+            "label": "苍梧县",
+            "children": []
+          },
+          {
+            "value": "藤县",
+            "label": "藤县",
+            "children": []
+          },
+          {
+            "value": "蒙山县",
+            "label": "蒙山县",
+            "children": []
+          },
+          {
+            "value": "岑溪市",
+            "label": "岑溪市",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "北海",
+        "label": "北海",
+        "children": [
+          {
+            "value": "海城区",
+            "label": "海城区",
+            "children": []
+          },
+          {
+            "value": "银海区",
+            "label": "银海区",
+            "children": []
+          },
+          {
+            "value": "铁山港区",
+            "label": "铁山港区",
+            "children": []
+          },
+          {
+            "value": "合浦县",
+            "label": "合浦县",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "崇左",
+        "label": "崇左",
+        "children": [
+          {
+            "value": "江州区",
+            "label": "江州区",
+            "children": []
+          },
+          {
+            "value": "扶绥县",
+            "label": "扶绥县",
+            "children": []
+          },
+          {
+            "value": "宁明县",
+            "label": "宁明县",
+            "children": []
+          },
+          {
+            "value": "龙州县",
+            "label": "龙州县",
+            "children": []
+          },
+          {
+            "value": "大新县",
+            "label": "大新县",
+            "children": []
+          },
+          {
+            "value": "天等县",
+            "label": "天等县",
+            "children": []
+          },
+          {
+            "value": "凭祥市",
+            "label": "凭祥市",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "来宾",
+        "label": "来宾",
+        "children": [
+          {
+            "value": "兴宾区",
+            "label": "兴宾区",
+            "children": []
+          },
+          {
+            "value": "忻城县",
+            "label": "忻城县",
+            "children": []
+          },
+          {
+            "value": "象州县",
+            "label": "象州县",
+            "children": []
+          },
+          {
+            "value": "武宣县",
+            "label": "武宣县",
+            "children": []
+          },
+          {
+            "value": "金秀瑶族自治县",
+            "label": "金秀瑶族自治县",
+            "children": []
+          },
+          {
+            "value": "合山市",
+            "label": "合山市",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "贺州",
+        "label": "贺州",
+        "children": [
+          {
+            "value": "八步区",
+            "label": "八步区",
+            "children": []
+          },
+          {
+            "value": "平桂区",
+            "label": "平桂区",
+            "children": []
+          },
+          {
+            "value": "昭平县",
+            "label": "昭平县",
+            "children": []
+          },
+          {
+            "value": "钟山县",
+            "label": "钟山县",
+            "children": []
+          },
+          {
+            "value": "富川瑶族自治县",
+            "label": "富川瑶族自治县",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "玉林",
+        "label": "玉林",
+        "children": [
+          {
+            "value": "玉州区",
+            "label": "玉州区",
+            "children": []
+          },
+          {
+            "value": "福绵区",
+            "label": "福绵区",
+            "children": []
+          },
+          {
+            "value": "容县",
+            "label": "容县",
+            "children": []
+          },
+          {
+            "value": "陆川县",
+            "label": "陆川县",
+            "children": []
+          },
+          {
+            "value": "博白县",
+            "label": "博白县",
+            "children": []
+          },
+          {
+            "value": "兴业县",
+            "label": "兴业县",
+            "children": []
+          },
+          {
+            "value": "北流市",
+            "label": "北流市",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "百色",
+        "label": "百色",
+        "children": [
+          {
+            "value": "右江区",
+            "label": "右江区",
+            "children": []
+          },
+          {
+            "value": "田阳区",
+            "label": "田阳区",
+            "children": []
+          },
+          {
+            "value": "田东县",
+            "label": "田东县",
+            "children": []
+          },
+          {
+            "value": "德保县",
+            "label": "德保县",
+            "children": []
+          },
+          {
+            "value": "那坡县",
+            "label": "那坡县",
+            "children": []
+          },
+          {
+            "value": "凌云县",
+            "label": "凌云县",
+            "children": []
+          },
+          {
+            "value": "乐业县",
+            "label": "乐业县",
+            "children": []
+          },
+          {
+            "value": "田林县",
+            "label": "田林县",
+            "children": []
+          },
+          {
+            "value": "西林县",
+            "label": "西林县",
+            "children": []
+          },
+          {
+            "value": "隆林各族自治县",
+            "label": "隆林各族自治县",
+            "children": []
+          },
+          {
+            "value": "靖西市",
+            "label": "靖西市",
+            "children": []
+          },
+          {
+            "value": "平果市",
+            "label": "平果市",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "河池",
+        "label": "河池",
+        "children": [
+          {
+            "value": "金城江区",
+            "label": "金城江区",
+            "children": []
+          },
+          {
+            "value": "宜州区",
+            "label": "宜州区",
+            "children": []
+          },
+          {
+            "value": "南丹县",
+            "label": "南丹县",
+            "children": []
+          },
+          {
+            "value": "天峨县",
+            "label": "天峨县",
+            "children": []
+          },
+          {
+            "value": "凤山县",
+            "label": "凤山县",
+            "children": []
+          },
+          {
+            "value": "东兰县",
+            "label": "东兰县",
+            "children": []
+          },
+          {
+            "value": "罗城仫佬族自治县",
+            "label": "罗城仫佬族自治县",
+            "children": []
+          },
+          {
+            "value": "环江毛南族自治县",
+            "label": "环江毛南族自治县",
+            "children": []
+          },
+          {
+            "value": "巴马瑶族自治县",
+            "label": "巴马瑶族自治县",
+            "children": []
+          },
+          {
+            "value": "都安瑶族自治县",
+            "label": "都安瑶族自治县",
+            "children": []
+          },
+          {
+            "value": "大化瑶族自治县",
+            "label": "大化瑶族自治县",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "钦州",
+        "label": "钦州",
+        "children": [
+          {
+            "value": "钦南区",
+            "label": "钦南区",
+            "children": []
+          },
+          {
+            "value": "钦北区",
+            "label": "钦北区",
+            "children": []
+          },
+          {
+            "value": "灵山县",
+            "label": "灵山县",
+            "children": []
+          },
+          {
+            "value": "浦北县",
+            "label": "浦北县",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "防城港",
+        "label": "防城港",
+        "children": [
+          {
+            "value": "港口区",
+            "label": "港口区",
+            "children": []
+          },
+          {
+            "value": "防城区",
+            "label": "防城区",
+            "children": []
+          },
+          {
+            "value": "上思县",
+            "label": "上思县",
+            "children": []
+          },
+          {
+            "value": "东兴市",
+            "label": "东兴市",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "贵港",
+        "label": "贵港",
+        "children": [
+          {
+            "value": "港北区",
+            "label": "港北区",
+            "children": []
+          },
+          {
+            "value": "港南区",
+            "label": "港南区",
+            "children": []
+          },
+          {
+            "value": "覃塘区",
+            "label": "覃塘区",
+            "children": []
+          },
+          {
+            "value": "平南县",
+            "label": "平南县",
+            "children": []
+          },
+          {
+            "value": "桂平市",
+            "label": "桂平市",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

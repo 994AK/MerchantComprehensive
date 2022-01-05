@@ -1,0 +1,1314 @@
+[
+  {
+    "value": "地标商圈",
+    "label": "地标商圈",
+    "children": [
+      {
+        "value": "南宁",
+        "label": "南宁",
+        "children": [
+          {
+            "value": "南宁机场商圈",
+            "label": "南宁机场商圈"
+          },
+          {
+            "value": "南宁绿地万达商圈",
+            "label": "南宁绿地万达商圈"
+          },
+          {
+            "value": "南宁梦之岛水晶城商圈",
+            "label": "南宁梦之岛水晶城商圈"
+          },
+          {
+            "value": "南宁万象城商圈",
+            "label": "南宁万象城商圈"
+          },
+          {
+            "value": "南宁安吉万达广场商圈",
+            "label": "南宁安吉万达广场商圈"
+          },
+          {
+            "value": "南宁江南万达广场商圈",
+            "label": "南宁江南万达广场商圈"
+          },
+          {
+            "value": "南宁航洋商圈",
+            "label": "南宁航洋商圈"
+          },
+          {
+            "value": "南宁武鸣康和城商圈",
+            "label": "南宁武鸣康和城商圈"
+          }
+        ]
+      },
+      {
+        "value": "柳州",
+        "label": "柳州",
+        "children": [
+          {
+            "value": "柳州万象城商圈",
+            "label": "柳州万象城商圈",
+            "children": []
+          },
+          {
+            "value": "柳州五星商圈",
+            "label": "柳州五星商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "桂林",
+        "label": "桂林",
+        "children": [
+          {
+            "value": "桂林十字街商圈",
+            "label": "桂林十字街商圈",
+            "children": []
+          },
+          {
+            "value": "桂林万象城商圈",
+            "label": "桂林万象城商圈",
+            "children": []
+          },
+          {
+            "value": "桂林高新万达商圈",
+            "label": "桂林高新万达商圈",
+            "children": []
+          },
+          {
+            "value": "桂林临桂万达商圈",
+            "label": "桂林临桂万达商圈",
+            "children": []
+          },
+          {
+            "value": "桂林叠彩万达商圈",
+            "label": "桂林叠彩万达商圈",
+            "children": []
+          },
+          {
+            "value": "桂林吾悦广场商圈",
+            "label": "桂林吾悦广场商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "梧州",
+        "label": "梧州",
+        "children": [
+          {
+            "value": "藤县中央城商圈",
+            "label": "藤县中央城商圈",
+            "children": []
+          },
+          {
+            "value": "梅西商圈",
+            "label": "梅西商圈",
+            "children": []
+          },
+          {
+            "value": "旺城商圈",
+            "label": "旺城商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "北海",
+        "label": "北海",
+        "children": [
+          {
+            "value": "北部湾广场商圈",
+            "label": "北部湾广场商圈",
+            "children": []
+          },
+          {
+            "value": "北海万达商圈",
+            "label": "北海万达商圈",
+            "children": []
+          },
+          {
+            "value": "合浦美人鱼商圈",
+            "label": "合浦美人鱼商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "崇左",
+        "label": "崇左",
+        "children": [
+          {
+            "value": "崇左万象汇商圈",
+            "label": "崇左万象汇商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "来宾",
+        "label": "来宾",
+        "children": [
+          {
+            "value": "来宾裕达步行街商圈",
+            "label": "来宾裕达步行街商圈",
+            "children": []
+          },
+          {
+            "value": "武宣县马鞍山商圈",
+            "label": "武宣县马鞍山商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "贺州",
+        "label": "贺州",
+        "children": [
+          {
+            "value": "贺州南百商圈",
+            "label": "贺州南百商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "玉林",
+        "label": "玉林",
+        "children": [
+          {
+            "value": "玉林金城商圈",
+            "label": "玉林金城商圈",
+            "children": []
+          },
+          {
+            "value": "玉林万达商圈",
+            "label": "玉林万达商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "百色",
+        "label": "百色",
+        "children": [
+          {
+            "value": "百色爱琴海商圈",
+            "label": "百色爱琴海商圈",
+            "children": []
+          },
+          {
+            "value": "百色梦之岛商圈",
+            "label": "百色梦之岛商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "河池",
+        "label": "河池",
+        "children": [
+          {
+            "value": "河池新天地商圈",
+            "label": "河池新天地商圈",
+            "children": []
+          },
+          {
+            "value": "南丹幸福城商圈",
+            "label": "南丹幸福城商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "钦州",
+        "label": "钦州",
+        "children": [
+          {
+            "value": "钦州年年丰购物广场商圈",
+            "label": "钦州年年丰购物广场商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "防城港",
+        "label": "防城港",
+        "children": [
+          {
+            "value": "防城港嘉乐城商圈",
+            "label": "防城港嘉乐城商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "贵港",
+        "label": "贵港",
+        "children": [
+          {
+            "value": "平南中心广场商圈",
+            "label": "平南中心广场商圈",
+            "children": []
+          },
+          {
+            "value": "贵港生活港商圈",
+            "label": "贵港生活港商圈",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "value": "网点微商圈",
+    "label": "网点微商圈",
+    "children": [
+      {
+        "value": "南宁",
+        "label": "南宁",
+        "children": [
+          {
+            "value": "朝阳商圈",
+            "label": "朝阳商圈",
+            "children": []
+          },
+          {
+            "value": "南宁万达茂商圈",
+            "label": "南宁万达茂商圈",
+            "children": []
+          },
+          {
+            "value": "玉洞商圈",
+            "label": "玉洞商圈",
+            "children": []
+          },
+          {
+            "value": "南宁梦之岛水晶城商圈",
+            "label": "南宁梦之岛水晶城商圈",
+            "children": []
+          },
+          {
+            "value": "南宁万象城商圈",
+            "label": "南宁万象城商圈",
+            "children": []
+          },
+          {
+            "value": "广西大学商圈",
+            "label": "广西大学商圈",
+            "children": []
+          },
+          {
+            "value": "南宁江南万达广场商圈",
+            "label": "南宁江南万达广场商圈",
+            "children": []
+          },
+          {
+            "value": "凤岭儿童公园商圈",
+            "label": "凤岭儿童公园商圈",
+            "children": []
+          },
+          {
+            "value": "古城路商圈",
+            "label": "古城路商圈",
+            "children": []
+          },
+          {
+            "value": "南宁航洋商圈",
+            "label": "南宁航洋商圈",
+            "children": []
+          },
+          {
+            "value": "南宁绿地万达商圈",
+            "label": "南宁绿地万达商圈",
+            "children": []
+          },
+          {
+            "value": "南湖商圈",
+            "label": "南湖商圈",
+            "children": []
+          },
+          {
+            "value": "东盟商务区商圈",
+            "label": "东盟商务区商圈",
+            "children": []
+          },
+          {
+            "value": "柳沙商圈",
+            "label": "柳沙商圈",
+            "children": []
+          },
+          {
+            "value": "明秀商圈",
+            "label": "明秀商圈",
+            "children": []
+          },
+          {
+            "value": "万达茂商圈",
+            "label": "万达茂商圈",
+            "children": []
+          },
+          {
+            "value": "体育中心商圈",
+            "label": "体育中心商圈",
+            "children": []
+          },
+          {
+            "value": "相思湖商圈",
+            "label": "相思湖商圈",
+            "children": []
+          },
+          {
+            "value": "南宁安吉万达广场商圈",
+            "label": "南宁安吉万达广场商圈",
+            "children": []
+          },
+          {
+            "value": "横县商圈",
+            "label": "横县商圈",
+            "children": []
+          },
+          {
+            "value": "南宁东站商圈",
+            "label": "南宁东站商圈",
+            "children": []
+          },
+          {
+            "value": "武鸣商圈",
+            "label": "武鸣商圈",
+            "children": []
+          },
+          {
+            "value": "宾阳商圈",
+            "label": "宾阳商圈",
+            "children": []
+          },
+          {
+            "value": "良凤江商圈",
+            "label": "良凤江商圈",
+            "children": []
+          },
+          {
+            "value": "普罗旺斯商圈",
+            "label": "普罗旺斯商圈",
+            "children": []
+          },
+          {
+            "value": "高新商圈",
+            "label": "高新商圈",
+            "children": []
+          },
+          {
+            "value": "南宁机场商圈",
+            "label": "南宁机场商圈",
+            "children": []
+          },
+          {
+            "value": "南宁五象万象汇商圈",
+            "label": "南宁五象万象汇商圈",
+            "children": []
+          },
+          {
+            "value": "华南城商圈",
+            "label": "华南城商圈",
+            "children": []
+          },
+          {
+            "value": "南宁恒大城商圈",
+            "label": "南宁恒大城商圈",
+            "children": []
+          },
+          {
+            "value": "荣宝华商圈",
+            "label": "荣宝华商圈",
+            "children": []
+          },
+          {
+            "value": "石埠商圈",
+            "label": "石埠商圈",
+            "children": []
+          },
+          {
+            "value": "兴宁吾悦广场商圈",
+            "label": "兴宁吾悦广场商圈",
+            "children": []
+          },
+          {
+            "value": "盛天果岭商圈",
+            "label": "盛天果岭商圈",
+            "children": []
+          },
+          {
+            "value": "嘉和城商圈",
+            "label": "嘉和城商圈",
+            "children": []
+          },
+          {
+            "value": "南宁剧场商圈",
+            "label": "南宁剧场商圈",
+            "children": []
+          },
+          {
+            "value": "民族广场商圈",
+            "label": "民族广场商圈",
+            "children": []
+          },
+          {
+            "value": "南宁武鸣康和城商圈",
+            "label": "南宁武鸣康和城商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "柳州",
+        "label": "柳州",
+        "children": [
+          {
+            "value": "五星商圈",
+            "label": "五星商圈",
+            "children": []
+          },
+          {
+            "value": "保利商场商圈",
+            "label": "保利商场商圈",
+            "children": []
+          },
+          {
+            "value": "胜利市场商圈",
+            "label": "胜利市场商圈",
+            "children": []
+          },
+          {
+            "value": "阳光100商圈",
+            "label": "阳光100商圈",
+            "children": []
+          },
+          {
+            "value": "飞鹅商圈",
+            "label": "飞鹅商圈",
+            "children": []
+          },
+          {
+            "value": "河西商圈",
+            "label": "河西商圈",
+            "children": []
+          },
+          {
+            "value": "航银商圈",
+            "label": "航银商圈",
+            "children": []
+          },
+          {
+            "value": "白云市场商圈",
+            "label": "白云市场商圈",
+            "children": []
+          },
+          {
+            "value": "城中万达商圈",
+            "label": "城中万达商圈",
+            "children": []
+          },
+          {
+            "value": "柳南万达商圈",
+            "label": "柳南万达商圈",
+            "children": []
+          },
+          {
+            "value": "柳钢商圈",
+            "label": "柳钢商圈",
+            "children": []
+          },
+          {
+            "value": "鹿寨县商圈",
+            "label": "鹿寨县商圈",
+            "children": []
+          },
+          {
+            "value": "柳江区商圈",
+            "label": "柳江区商圈",
+            "children": []
+          },
+          {
+            "value": "谷埠街商圈",
+            "label": "谷埠街商圈",
+            "children": []
+          },
+          {
+            "value": "柳州万象城商圈",
+            "label": "柳州万象城商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "桂林",
+        "label": "桂林",
+        "children": [
+          {
+            "value": "花生唐商圈",
+            "label": "花生唐商圈",
+            "children": []
+          },
+          {
+            "value": "鑫源广场商圈",
+            "label": "鑫源广场商圈",
+            "children": []
+          },
+          {
+            "value": "金水公园商圈",
+            "label": "金水公园商圈",
+            "children": []
+          },
+          {
+            "value": "西山公园商圈",
+            "label": "西山公园商圈",
+            "children": []
+          },
+          {
+            "value": "中心广场商圈",
+            "label": "中心广场商圈",
+            "children": []
+          },
+          {
+            "value": "红街商圈",
+            "label": "红街商圈",
+            "children": []
+          },
+          {
+            "value": "甲天下广场商圈",
+            "label": "甲天下广场商圈",
+            "children": []
+          },
+          {
+            "value": "体育中心商圈",
+            "label": "体育中心商圈",
+            "children": []
+          },
+          {
+            "value": "七星景区商圈",
+            "label": "七星景区商圈",
+            "children": []
+          },
+          {
+            "value": "桂电商圈",
+            "label": "桂电商圈",
+            "children": []
+          },
+          {
+            "value": "高新产业园商圈",
+            "label": "高新产业园商圈",
+            "children": []
+          },
+          {
+            "value": "三里店大圆盘商圈",
+            "label": "三里店大圆盘商圈",
+            "children": []
+          },
+          {
+            "value": "桂北站商圈",
+            "label": "桂北站商圈",
+            "children": []
+          },
+          {
+            "value": "北极广场商圈",
+            "label": "北极广场商圈",
+            "children": []
+          },
+          {
+            "value": "雁山融创商圈",
+            "label": "雁山融创商圈",
+            "children": []
+          },
+          {
+            "value": "瓦窑批发城商圈",
+            "label": "瓦窑批发城商圈",
+            "children": []
+          },
+          {
+            "value": "全州商圈",
+            "label": "全州商圈",
+            "children": []
+          },
+          {
+            "value": "兴安商圈",
+            "label": "兴安商圈",
+            "children": []
+          },
+          {
+            "value": "灵川商圈",
+            "label": "灵川商圈",
+            "children": []
+          },
+          {
+            "value": "阳朔商圈",
+            "label": "阳朔商圈",
+            "children": []
+          },
+          {
+            "value": "荔浦商圈",
+            "label": "荔浦商圈",
+            "children": []
+          },
+          {
+            "value": "桂林十字街商圈",
+            "label": "桂林十字街商圈",
+            "children": []
+          },
+          {
+            "value": "桂林万象城商圈",
+            "label": "桂林万象城商圈",
+            "children": []
+          },
+          {
+            "value": "桂林高新万达商圈",
+            "label": "桂林高新万达商圈",
+            "children": []
+          },
+          {
+            "value": "桂林临桂万达商圈",
+            "label": "桂林临桂万达商圈",
+            "children": []
+          },
+          {
+            "value": "桂林叠彩万达商圈",
+            "label": "桂林叠彩万达商圈",
+            "children": []
+          },
+          {
+            "value": "桂林吾悦广场商圈",
+            "label": "桂林吾悦广场商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "梧州",
+        "label": "梧州",
+        "children": [
+          {
+            "value": "南宁百货商圈",
+            "label": "南宁百货商圈",
+            "children": []
+          },
+          {
+            "value": "藤县中央城商圈",
+            "label": "藤县中央城商圈",
+            "children": []
+          },
+          {
+            "value": "旺城商圈",
+            "label": "旺城商圈",
+            "children": []
+          },
+          {
+            "value": "梅西商圈",
+            "label": "梅西商圈",
+            "children": []
+          },
+          {
+            "value": "大塘商圈",
+            "label": "大塘商圈",
+            "children": []
+          },
+          {
+            "value": "玫瑰湖商圈",
+            "label": "玫瑰湖商圈",
+            "children": []
+          },
+          {
+            "value": "河东商圈",
+            "label": "河东商圈",
+            "children": []
+          },
+          {
+            "value": "岑溪商圈",
+            "label": "岑溪商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "北海",
+        "label": "北海",
+        "children": [
+          {
+            "value": "老街商圈",
+            "label": "老街商圈",
+            "children": []
+          },
+          {
+            "value": "海洋之窗商圈",
+            "label": "海洋之窗商圈",
+            "children": []
+          },
+          {
+            "value": "北部湾广场商圈",
+            "label": "北部湾广场商圈",
+            "children": []
+          },
+          {
+            "value": "侨港风琴街商圈",
+            "label": "侨港风琴街商圈",
+            "children": []
+          },
+          {
+            "value": "合浦美人鱼商圈",
+            "label": "合浦美人鱼商圈",
+            "children": []
+          },
+          {
+            "value": "冠山海商圈",
+            "label": "冠山海商圈",
+            "children": []
+          },
+          {
+            "value": "南珠车站商圈",
+            "label": "南珠车站商圈",
+            "children": []
+          },
+          {
+            "value": "银滩商圈",
+            "label": "银滩商圈",
+            "children": []
+          },
+          {
+            "value": "北海万达商圈",
+            "label": "北海万达商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "崇左",
+        "label": "崇左",
+        "children": [
+          {
+            "value": "太平古城商圈",
+            "label": "太平古城商圈",
+            "children": []
+          },
+          {
+            "value": "汇豪城商圈",
+            "label": "汇豪城商圈",
+            "children": []
+          },
+          {
+            "value": "博物馆商圈",
+            "label": "博物馆商圈",
+            "children": []
+          },
+          {
+            "value": "碧桂园商圈",
+            "label": "碧桂园商圈",
+            "children": []
+          },
+          {
+            "value": "江南市场商圈",
+            "label": "江南市场商圈",
+            "children": []
+          },
+          {
+            "value": "螺香街商圈",
+            "label": "螺香街商圈",
+            "children": []
+          },
+          {
+            "value": "百家惠商圈",
+            "label": "百家惠商圈",
+            "children": []
+          },
+          {
+            "value": "崇左万象汇商圈",
+            "label": "崇左万象汇商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "来宾",
+        "label": "来宾",
+        "children": [
+          {
+            "value": "中南商圈",
+            "label": "中南商圈",
+            "children": []
+          },
+          {
+            "value": "百悦商圈",
+            "label": "百悦商圈",
+            "children": []
+          },
+          {
+            "value": "滨江商圈",
+            "label": "滨江商圈",
+            "children": []
+          },
+          {
+            "value": "裕达金座商圈",
+            "label": "裕达金座商圈",
+            "children": []
+          },
+          {
+            "value": "电厂圆盘商圈",
+            "label": "电厂圆盘商圈",
+            "children": []
+          },
+          {
+            "value": "来宾裕达步行街商圈",
+            "label": "来宾裕达步行街商圈",
+            "children": []
+          },
+          {
+            "value": "武宣县马鞍山商圈",
+            "label": "武宣县马鞍山商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "贺州",
+        "label": "贺州",
+        "children": [
+          {
+            "value": "新时代商圈",
+            "label": "新时代商圈",
+            "children": []
+          },
+          {
+            "value": "女人街商圈",
+            "label": "女人街商圈",
+            "children": []
+          },
+          {
+            "value": "远东商圈",
+            "label": "远东商圈",
+            "children": []
+          },
+          {
+            "value": "厦良商圈",
+            "label": "厦良商圈",
+            "children": []
+          },
+          {
+            "value": "摩尔街商圈",
+            "label": "摩尔街商圈",
+            "children": []
+          },
+          {
+            "value": "龙山路美食街商圈",
+            "label": "龙山路美食街商圈",
+            "children": []
+          },
+          {
+            "value": "嘉年濠庭商圈",
+            "label": "嘉年濠庭商圈",
+            "children": []
+          },
+          {
+            "value": "香港城商圈",
+            "label": "香港城商圈",
+            "children": []
+          },
+          {
+            "value": "六路商圈",
+            "label": "六路商圈",
+            "children": []
+          },
+          {
+            "value": "贺州南百商圈",
+            "label": "贺州南百商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "玉林",
+        "label": "玉林",
+        "children": [
+          {
+            "value": "奥园广场",
+            "label": "奥园广场",
+            "children": []
+          },
+          {
+            "value": "文化广场商圈",
+            "label": "文化广场商圈",
+            "children": []
+          },
+          {
+            "value": "体育中心",
+            "label": "体育中心",
+            "children": []
+          },
+          {
+            "value": "大润发商圈",
+            "label": "大润发商圈",
+            "children": []
+          },
+          {
+            "value": "市中心步行街商圈",
+            "label": "市中心步行街商圈",
+            "children": []
+          },
+          {
+            "value": "南兴广场",
+            "label": "南兴广场",
+            "children": []
+          },
+          {
+            "value": "玉柴商圈",
+            "label": "玉柴商圈",
+            "children": []
+          },
+          {
+            "value": "工业品商圈",
+            "label": "工业品商圈",
+            "children": []
+          },
+          {
+            "value": "江岸商圈",
+            "label": "江岸商圈",
+            "children": []
+          },
+          {
+            "value": "师院商圈",
+            "label": "师院商圈",
+            "children": []
+          },
+          {
+            "value": "陆川步行街商圈",
+            "label": "陆川步行街商圈",
+            "children": []
+          },
+          {
+            "value": "容县步行街商圈",
+            "label": "容县步行街商圈",
+            "children": []
+          },
+          {
+            "value": "灵山镇商圈",
+            "label": "灵山镇商圈",
+            "children": []
+          },
+          {
+            "value": "黎村镇商圈",
+            "label": "黎村镇商圈",
+            "children": []
+          },
+          {
+            "value": "北流步行街商圈",
+            "label": "北流步行街商圈",
+            "children": []
+          },
+          {
+            "value": "玉林万达商圈",
+            "label": "玉林万达商圈",
+            "children": []
+          },
+          {
+            "value": "玉林金城商圈",
+            "label": "玉林金城商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "百色",
+        "label": "百色",
+        "children": [
+          {
+            "value": "南大建材商圈",
+            "label": "南大建材商圈",
+            "children": []
+          },
+          {
+            "value": "百色汽车城商圈",
+            "label": "百色汽车城商圈",
+            "children": []
+          },
+          {
+            "value": "森林中心城商圈",
+            "label": "森林中心城商圈",
+            "children": []
+          },
+          {
+            "value": "半岛商圈",
+            "label": "半岛商圈",
+            "children": []
+          },
+          {
+            "value": "恒宁城市广场商圈",
+            "label": "恒宁城市广场商圈",
+            "children": []
+          },
+          {
+            "value": "德保商圈",
+            "label": "德保商圈",
+            "children": []
+          },
+          {
+            "value": "靖西商圈",
+            "label": "靖西商圈",
+            "children": []
+          },
+          {
+            "value": "平果商圈",
+            "label": "平果商圈",
+            "children": []
+          },
+          {
+            "value": "百色爱琴海商圈",
+            "label": "百色爱琴海商圈",
+            "children": []
+          },
+          {
+            "value": "百色梦之岛商圈",
+            "label": "百色梦之岛商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "河池",
+        "label": "河池",
+        "children": [
+          {
+            "value": "假日城堡商圈",
+            "label": "假日城堡商圈",
+            "children": []
+          },
+          {
+            "value": "龙滩商圈",
+            "label": "龙滩商圈",
+            "children": []
+          },
+          {
+            "value": "大洋商圈",
+            "label": "大洋商圈",
+            "children": []
+          },
+          {
+            "value": "民族广场商圈",
+            "label": "民族广场商圈",
+            "children": []
+          },
+          {
+            "value": "金地王商圈",
+            "label": "金地王商圈",
+            "children": []
+          },
+          {
+            "value": "刘三姐广场商圈",
+            "label": "刘三姐广场商圈",
+            "children": []
+          },
+          {
+            "value": "桂剧院商圈",
+            "label": "桂剧院商圈",
+            "children": []
+          },
+          {
+            "value": "城南广场商圈",
+            "label": "城南广场商圈",
+            "children": []
+          },
+          {
+            "value": "河池新天地商圈",
+            "label": "河池新天地商圈",
+            "children": []
+          },
+          {
+            "value": "南丹幸福城商圈",
+            "label": "南丹幸福城商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "钦州",
+        "label": "钦州",
+        "children": [
+          {
+            "value": "世贸广场商圈",
+            "label": "世贸广场商圈",
+            "children": []
+          },
+          {
+            "value": "协盛广场商圈",
+            "label": "协盛广场商圈",
+            "children": []
+          },
+          {
+            "value": "仟仟万家商圈",
+            "label": "仟仟万家商圈",
+            "children": []
+          },
+          {
+            "value": "吾悦广场商圈",
+            "label": "吾悦广场商圈",
+            "children": []
+          },
+          {
+            "value": "商业大厦商圈",
+            "label": "商业大厦商圈",
+            "children": []
+          },
+          {
+            "value": "钦州年年丰购物广场商圈",
+            "label": "钦州年年丰购物广场商圈",
+            "children": []
+          },
+          {
+            "value": "钦州大润发商圈",
+            "label": "钦州大润发商圈",
+            "children": []
+          },
+          {
+            "value": "巨龙购物广场商圈",
+            "label": "巨龙购物广场商圈",
+            "children": []
+          },
+          {
+            "value": "东升市场商圈",
+            "label": "东升市场商圈",
+            "children": []
+          },
+          {
+            "value": "湘桂广场商圈",
+            "label": "湘桂广场商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "防城港",
+        "label": "防城港",
+        "children": [
+          {
+            "value": "防城港嘉乐城商圈",
+            "label": "防城港嘉乐城商圈",
+            "children": []
+          },
+          {
+            "value": "司瑞娜商业街商圈",
+            "label": "司瑞娜商业街商圈",
+            "children": []
+          },
+          {
+            "value": "金海湾商圈",
+            "label": "金海湾商圈",
+            "children": []
+          },
+          {
+            "value": "兴港商圈",
+            "label": "兴港商圈",
+            "children": []
+          },
+          {
+            "value": "桃花广场商圈",
+            "label": "桃花广场商圈",
+            "children": []
+          },
+          {
+            "value": "东兴市场商圈",
+            "label": "东兴市场商圈",
+            "children": []
+          },
+          {
+            "value": "东兴国门商圈",
+            "label": "东兴国门商圈",
+            "children": []
+          },
+          {
+            "value": "采珠商圈",
+            "label": "采珠商圈",
+            "children": []
+          }
+        ]
+      },
+      {
+        "value": "贵港",
+        "label": "贵港",
+        "children": [
+          {
+            "value": "凤凰城商圈",
+            "label": "凤凰城商圈",
+            "children": []
+          },
+          {
+            "value": "瑞雁广场商圈",
+            "label": "瑞雁广场商圈",
+            "children": []
+          },
+          {
+            "value": "平南中心广场商圈",
+            "label": "平南中心广场商圈",
+            "children": []
+          },
+          {
+            "value": "马草江生态公园商圈",
+            "label": "马草江生态公园商圈",
+            "children": []
+          },
+          {
+            "value": "贵港吾悦广场商圈",
+            "label": "贵港吾悦广场商圈",
+            "children": []
+          },
+          {
+            "value": "东湖公园商圈",
+            "label": "东湖公园商圈",
+            "children": []
+          },
+          {
+            "value": "维多利亚购物广场商圈",
+            "label": "维多利亚购物广场商圈",
+            "children": []
+          },
+          {
+            "value": "贵港万达广场商圈",
+            "label": "贵港万达广场商圈",
+            "children": []
+          },
+          {
+            "value": "贵港梦之岛百货商圈",
+            "label": "贵港梦之岛百货商圈",
+            "children": []
+          },
+          {
+            "value": "贵港生活港商圈",
+            "label": "贵港生活港商圈",
+            "children": []
+          },
+          {
+            "value": "体育中心商圈",
+            "label": "体育中心商圈",
+            "children": []
+          },
+          {
+            "value": "平南鼎盛时代商圈",
+            "label": "平南鼎盛时代商圈",
+            "children": []
+          },
+          {
+            "value": "桂平步行街商圈",
+            "label": "桂平步行街商圈",
+            "children": []
+          },
+          {
+            "value": "桂平三千城商圈",
+            "label": "桂平三千城商圈",
+            "children": []
+          },
+          {
+            "value": "港龙湾商圈",
+            "label": "港龙湾商圈",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
